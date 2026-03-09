@@ -1,0 +1,9 @@
+{
+  "shoulder_angle_min": 170,
+  "shoulder_angle_max": 190,
+  "min_detection_confidence": 0.5,
+  "sound_file": "beep.wav",
+  "webcam_id": 0,
+  "bow_arm_angle_min": 160,
+  "elbow_raise_offset": 0.02
+}
